@@ -1,0 +1,135 @@
+THE LOAD BENCH — Issue #2 | April 5, 2026
+Precision handloading intelligence. Built by shooters, for shooters.
+
+SUBJECT: Issue #2 — .308 Win Load Data, Primer Availability Deep Dive, Community Roundup
+PREVIEW TEXT: 175gr SMK vs 185gr Juggernaut, where primers are actually sitting right now, and the best from the community.
+
+---
+
+Welcome back.
+
+Issue #1 was about the 6GT — a cartridge with a future. This week we're going old school: .308 Winchester. Don't let anyone tell you it's outdated. It's proven at 1,000 yards in F-Class and service rifle, it's the reference point for half the precision community, and if you're not running it yet, you've almost certainly shot against someone who is.
+
+We're also diving into primer availability this week — what the scraper actually found across the major suppliers, what's consistently hard to locate, and what to grab when you see it.
+
+Let's get into it.
+
+---
+
+📦 COMPONENT WATCH
+
+This week's scraper run hit Powder Valley, Graf & Sons, Widener's, and Lucky Gunner. Midsouth Shooters Supply blocked automated queries (403s across the board) — go check them directly. Status on the core list:
+
+Varget — Tracked across Powder Valley, Graf's, and Widener's. All need manual verification. Varget is the backbone of .308 precision loads and demand stays high. If you find 8lb jugs anywhere near $200, that's still a good buy right now.
+
+H4350 — Same story. Four retailers in the scraper. Go check each directly — links are at theloadbench.com.
+
+N150 — The Vihtavuori option for heavier .308 bullets. Graf's is typically your best bet for Vihtavuori stock. Harder to find than domestic powders but worth it if you're loading 185gr+ bullets.
+
+IMR 4064 — Tracked at Powder Valley this week. Older standby for .308, still worth knowing about. Less common in competition loads these days but it works.
+
+6GT Brass — Still trickling through. Alpha, Peterson, and Lapua are the three worth watching. Check Lucky Gunner and Graf's.
+
+.308 Win Brass — Lucky Gunner was queried this week. Lapua brass is the gold standard for .308 precision work — see load data section below.
+
+---
+
+🎯 LOAD DATA SPOTLIGHT: .308 WINCHESTER
+
+Two bullets worth knowing right now — one that's been the standard for 30 years and one that's starting to replace it at distance.
+
+175gr Sierra MatchKing (BTHP, #2275)
+The original precision .308 load. If you've ever fired or competed against a USSOCOM, USMC, or civilian precision rifle shooter, this is what they were likely running. BC of around .505 (G1) — not glamorous by modern standards, but it's been trusted at 1,000 yards in the hands of people whose lives depended on it.
+
+• Powder: Varget 44.0–45.5gr | H4895 42.0–44.0gr | N150 44.5–46.0gr
+  (Start 2–3% below max, work up. These are reference ranges — not recipes.)
+• Primer: Federal 210M (Gold Medal Match). This pairing has decades of empirical backing.
+• Brass: Lapua preferred. Sort by weight before you start. Uniform primer pockets matter.
+• Cartridge OAL: 2.800" (standard magazine compatible) or seat to lands if your chamber allows
+• Velocity target: 2,600–2,650 fps from a 24" barrel
+• SD goal: Under 8 fps with quality brass and consistent seating depth. If you're consistently over 12 fps, check primer seating depth first — before chasing powder.
+
+185gr Berger Juggernaut (BTHP, #30445)
+The newer contender. G7 BC of .291 (G1 ~.568) means it holds velocity and cuts wind better than the 175gr SMK past 600 yards. The trade-off: it needs speed, and it's more sensitive to seating depth. But if you're running .308 at 800+ yards, this is worth the effort.
+
+• Powder: N150 45.0–46.5gr | Varget 43.5–44.5gr (Varget has less case capacity headroom with this bullet — watch pressure signs)
+• Primer: Federal 210M. Not negotiable for precision work with this bullet.
+• Brass: Lapua. Full-length size, neck turn if your throat is tight.
+• Seating depth: Start 0.015" off the lands and work toward the lands in 0.005" increments. The Juggernaut likes to be closer than most.
+• Velocity target: 2,520–2,570 fps from a 24" barrel. You're not going to win a velocity race with it — the BC is doing the work.
+• SD goal: Under 10 fps. Consistent seating depth is your biggest lever here.
+
+Quick comparison:
+  • At 600 yards: 175gr SMK vs 185gr Juggernaut — similar impact point
+  • At 800 yards: Juggernaut is noticeably flatter, less wind drift
+  • Match choice: If you're running NRL or PRS-style stages with shorter max distances (~600 yds), the 175 SMK is still competitive and far more forgiving. If you're F-Class or ELR .308, load the Juggernaut.
+
+---
+
+🔍 PRIMER AVAILABILITY DEEP DIVE
+
+The scraper tracked Federal 210M, Federal 205M, and CCI 400 this week across Powder Valley, Graf's, Widener's, and Midsouth (Midsouth blocked). Here's what the data tells us:
+
+Federal 210M (Large Rifle Match) — appeared in the pipeline at Powder Valley, Graf's, and Widener's. None returned confirmed in-stock status automatically — which means either they're listed but without a parseable status field, or availability is inconsistent enough that you need to check directly. Powder Valley has historically been the most reliable source for these in quantity.
+
+Federal 205M (Small Rifle Match) — same pattern. Three retailers queried, all need manual check.
+
+CCI 400 (Small Rifle Standard) — Graf's and Widener's both tracked. CCI small rifle primers have been more reliably available than Federal match primers for the last 18 months. If you're loading 6GT or similar and need a stop-gap, CCI BR-4 is the performance variant worth grabbing.
+
+The honest takeaway: the scraper is hitting all the right places, but the sites have gotten better at blocking automated stock checks. Go check these links manually — especially Powder Valley on Thursday/Friday mornings when restocks typically land.
+
+Direct links (also on theloadbench.com):
+• Powder Valley: powdervalleyinc.com
+• Graf & Sons: grafs.com
+• Widener's: wideners.com
+• Midsouth Shooters Supply: midsouthshooterssupply.com
+
+If you find Federal 210M in stock anywhere near MSRP, grab a sleeve minimum. These move fast when they show up and the next drought can last months.
+
+---
+
+💬 FROM THE COMMUNITY
+
+🔥 "Costco Has Almost Everything" (r/reloading, 248 upvotes) — Someone spotted reloading-adjacent gear at Costco. The comment thread turns into a good discussion on the WA-based retail chain's gun/ammo policies and what they will and won't carry. Worth a scroll.
+reddit.com/r/reloading/comments/1s2xd7j
+
+🔥 "Facebook reloading groups be like 'good job, perfect chamfer.'" (r/reloading, 158 upvotes, 58 comments) — If you've spent five minutes in any Facebook reloading group, you'll recognize this immediately. The top comment: "Neck tension has left the chat." 
+reddit.com/r/reloading/comments/1s2lss7
+
+🔥 "6.5 Catering to the Fudds" (r/longrange, 495 upvotes, 166 comments) — Debate thread on 6.5 Creedmoor marketing vs. actual performance. Lots of opinions. The top comment is measured; the rest of the thread is not. Good entertainment if you have 20 minutes.
+reddit.com/r/longrange/comments/1s0paww
+
+🔥 "Best ballistic software app?" (r/PrecisionRifle) — Comes up every few months. Top answer this week: Applied Ballistics. Kestrel integration if you want the full hardware/software setup. Hornady 4DOF is the free alternative if you're not ready to commit.
+reddit.com/r/precisionrifle/comments/1s24o70
+
+---
+
+🔧 FROM THE BENCH
+
+One thing worth repeating from last issue because it applies double to .308: brass prep is where your SD lives, not your powder charge.
+
+With .308 running 175gr bullets, you're filling a larger case volume with less margin for inconsistency. Annealing your brass every 3–4 firings will do more for your ES/SD than switching from Varget to N150. Consistent neck tension is the other big one — neck turn if you're serious, or at minimum uniform your primer pockets every firing.
+
+The Juggernaut is more punishing of bad brass than the 175gr SMK. If you're going to run it, your brass prep game needs to be clean.
+
+More from the bench after the next range session.
+
+— James
+
+---
+
+📬 READER Q&A
+
+Got a question about load development, component sourcing, equipment, or anything else from the bench? Reply to this email — I read every one. Best questions make it into a future issue.
+
+---
+
+📬 NEXT ISSUE
+• 6GT competition loads — current data from the bench
+• Component tracker update — will the sites ever stop blocking scrapers?
+• Reader questions
+
+---
+
+Join the Discord: https://discord.gg/BS62QQufQJ
+Website: https://theloadbench.com
