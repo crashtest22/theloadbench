@@ -1,14 +1,15 @@
 /**
  * The Load Bench — main.js
- * Newsletter subscribe via Beehiiv embedded form API
- * Publication ID: 5ad2a957-8062-45a2-9cce-375964c3f64c
+ * Newsletter subscribe via Beehiiv API v2
+ * Publication: pub_5ad2a957-8062-45a2-9cce-375964c3f64c
  */
 
 (function () {
   'use strict';
 
-  const BEEHIIV_PUB_ID = '5ad2a957-8062-45a2-9cce-375964c3f64c';
-  const BEEHIIV_URL = 'https://app.beehiiv.com/api/v1/publications/' + BEEHIIV_PUB_ID + '/subscriptions';
+  const BEEHIIV_PUB_ID = 'pub_5ad2a957-8062-45a2-9cce-375964c3f64c';
+  const BEEHIIV_API_KEY = 'gP2TGGMWI5GBFTgkGPWG6J6iVOCysjLVmbxQL9XCzU04RDPezRQVRYcNrvPJyNy5';
+  const BEEHIIV_URL = 'https://api.beehiiv.com/v2/publications/' + BEEHIIV_PUB_ID + '/subscriptions';
 
   const forms = document.querySelectorAll('form[id^="subscribe-form"]');
 
@@ -24,14 +25,16 @@
       const email = emailInput.value.trim();
       if (!email) return;
 
-      // Disable inputs while processing
       emailInput.disabled = true;
       submitBtn.disabled = true;
       submitBtn.textContent = 'Subscribing...';
 
       fetch(BEEHIIV_URL, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': 'Bearer ' + BEEHIIV_API_KEY
+        },
         body: JSON.stringify({
           email: email,
           reactivate_existing: true,
@@ -42,7 +45,7 @@
         })
       })
       .then(function (res) {
-        if (res.ok || res.status === 201 || res.status === 200) {
+        if (res.ok || res.status === 200 || res.status === 201) {
           submitBtn.textContent = '✓ You\'re in!';
           submitBtn.style.backgroundColor = '#16a34a';
           emailInput.value = '';
@@ -52,7 +55,9 @@
             successMsg.classList.add('visible');
           }
         } else {
-          throw new Error('Subscription failed: ' + res.status);
+          return res.json().then(function(data) {
+            throw new Error(data.message || 'Subscription failed');
+          });
         }
       })
       .catch(function (err) {
