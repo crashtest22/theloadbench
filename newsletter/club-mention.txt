@@ -1,0 +1,50 @@
+---
+CLUB NEWSLETTER INSERT — The Load Bench
+Paste this wherever it fits. Short version or full version below.
+---
+
+=== SHORT VERSION (2-3 sentences, fits in a sidebar or quick blurb) ===
+
+I recently launched a free weekly newsletter called The Load Bench covering component availability, load data, and handloading news. If you reload — especially if you're running 6GT, .308, .223, or pistol cartridges — it's worth a look. Free to subscribe at theloadbench.com.
+
+---
+
+=== FULL VERSION (paragraph, fits in a "member news" or announcements section) ===
+
+For those of you who handload, I've started a free weekly newsletter called The Load Bench (theloadbench.com). Every week it covers component availability from the major online suppliers — Powder Valley, Graf's, Midsouth, Widener's — so you know what's in stock before you make a trip or place an order. There's also a load data section focused on the cartridges most of us shoot: 6GT, .308, .223, 9mm, and .45 ACP. No beginner tutorials, no fluff — just useful information for people who actually reload.
+
+It's completely free. If you're interested, subscribe at theloadbench.com or join the Discord community at discord.gg/BS62QQufQJ.
+
+— James
+
+---
+
+=== EMAIL SUBJECT (if you're sending a standalone email) ===
+
+Subject: Free handloading newsletter for club members
+
+---
+
+=== STANDALONE EMAIL VERSION ===
+
+Hey [Club Name] members,
+
+For those of you who reload, I've started a free weekly newsletter I wanted to share: The Load Bench (theloadbench.com).
+
+What it covers every week:
+• Component availability — powder, primers, and brass from the major online suppliers. Know what's in stock before you place an order.
+• Load data spotlight — cartridge deep-dives from real competition experience (6GT, .308, .223, 9mm, .45 ACP). Not copy-paste manual data.
+• Community roundup — what's moving in the precision rifle and handloading world.
+
+It's free, it's weekly, and it's written for people who actually reload. No beginner content.
+
+Subscribe: theloadbench.com
+Join the Discord: discord.gg/BS62QQufQJ
+
+— James
+VP, [Club Name]
+
+---
+FILE: newsletter/club-mention.txt
+Use whichever version fits the space. The short version is least disruptive.
+---
