@@ -1,0 +1,20 @@
+<!-- OPTION C: Cartridge Badge — bold, iconic, works at any size -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" fill="#0f1117"/>
+  <!-- Cartridge case body -->
+  <rect x="208" y="210" width="96" height="160" fill="#c8752a" rx="8"/>
+  <!-- Cartridge rim/head -->
+  <rect x="198" y="358" width="116" height="18" fill="#a85e20" rx="4"/>
+  <!-- Primer -->
+  <circle cx="256" cy="367" r="14" fill="#7a5518"/>
+  <circle cx="256" cy="367" r="6" fill="#5a3d10"/>
+  <!-- Bullet ogive/tip -->
+  <path d="M208 210 Q256 110 304 210 Z" fill="#9ab0c8"/>
+  <!-- Case mouth line -->
+  <line x1="208" y1="210" x2="304" y2="210" stroke="#7a8fa8" stroke-width="3"/>
+  <!-- Text on case body -->
+  <text x="256" y="285" font-family="'Arial Black', Arial, sans-serif" font-weight="900" font-size="22" fill="#0f1117" text-anchor="middle">TLB</text>
+  <!-- Bottom text -->
+  <text x="256" y="430" font-family="'Arial Black', Arial, sans-serif" font-weight="900" font-size="30" fill="#ffffff" text-anchor="middle" letter-spacing="2">THE LOAD</text>
+  <text x="256" y="465" font-family="'Arial Black', Arial, sans-serif" font-weight="900" font-size="30" fill="#c8752a" text-anchor="middle" letter-spacing="2">BENCH</text>
+</svg>

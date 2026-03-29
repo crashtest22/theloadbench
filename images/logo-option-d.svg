@@ -1,0 +1,26 @@
+<!-- OPTION D: Hex Badge — shooting club / patch style, bold and clean -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" fill="#0f1117"/>
+  <!-- Hex shape -->
+  <polygon points="256,60 390,138 390,294 256,372 122,294 122,138" fill="none" stroke="#c8752a" stroke-width="5"/>
+  <!-- Inner hex (thinner) -->
+  <polygon points="256,82 370,152 370,282 256,352 142,282 142,152" fill="none" stroke="#c8752a" stroke-width="1.5" opacity="0.4"/>
+  <!-- Three cartridge silhouettes inside hex -->
+  <!-- Left -->
+  <rect x="172" y="170" width="22" height="80" fill="#c8752a" rx="3" opacity="0.7"/>
+  <polygon points="172,170 194,170 183,148" fill="#9ab0c8" opacity="0.9"/>
+  <rect x="168" y="242" width="30" height="8" fill="#a85e20" opacity="0.7" rx="2"/>
+  <!-- Center (taller) -->
+  <rect x="245" y="152" width="22" height="98" fill="#c8752a" rx="3"/>
+  <polygon points="245,152 267,152 256,126" fill="#c8c8c8"/>
+  <rect x="241" y="242" width="30" height="8" fill="#a85e20" rx="2"/>
+  <!-- Right -->
+  <rect x="318" y="170" width="22" height="80" fill="#c8752a" rx="3" opacity="0.7"/>
+  <polygon points="318,170 340,170 329,148" fill="#9ab0c8" opacity="0.9"/>
+  <rect x="314" y="242" width="30" height="8" fill="#a85e20" opacity="0.7" rx="2"/>
+  <!-- Text inside bottom of hex -->
+  <text x="256" y="322" font-family="'Arial Black', Arial, sans-serif" font-weight="900" font-size="20" fill="#ffffff" text-anchor="middle" letter-spacing="3">LOAD BENCH</text>
+  <!-- Bottom label -->
+  <text x="256" y="430" font-family="'Arial Black', Arial, sans-serif" font-weight="900" font-size="32" fill="#ffffff" text-anchor="middle" letter-spacing="1">THE LOAD BENCH</text>
+  <text x="256" y="460" font-family="Arial, sans-serif" font-size="13" fill="#c8752a" text-anchor="middle" letter-spacing="5">EST. 2026</text>
+</svg>
