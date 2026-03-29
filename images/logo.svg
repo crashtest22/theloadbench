@@ -1,39 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
-  <!-- Background -->
-  <rect width="400" height="400" fill="#0f1117" rx="40"/>
-  
-  <!-- Bench top surface -->
-  <rect x="40" y="200" width="320" height="24" fill="#c8752a" rx="4"/>
-  
-  <!-- Bench legs -->
-  <rect x="60" y="224" width="18" height="100" fill="#a85e20" rx="3"/>
-  <rect x="322" y="224" width="18" height="100" fill="#a85e20" rx="3"/>
-  
-  <!-- Bench shelf/lower rail -->
-  <rect x="52" y="296" width="296" height="12" fill="#a85e20" rx="3"/>
-
-  <!-- Reloading press silhouette on bench -->
-  <!-- Press base -->
-  <rect x="170" y="155" width="60" height="46" fill="#1e2330" rx="4" stroke="#c8752a" stroke-width="2"/>
-  <!-- Press column -->
-  <rect x="192" y="90" width="16" height="70" fill="#1e2330" rx="3" stroke="#c8752a" stroke-width="2"/>
-  <!-- Press arm/handle -->
-  <line x1="208" y1="105" x2="255" y2="80" stroke="#c8752a" stroke-width="4" stroke-linecap="round"/>
-  <circle cx="258" cy="79" r="7" fill="#c8752a"/>
-  <!-- Shell plate/die area -->
-  <circle cx="200" cy="153" r="10" fill="#c8752a" opacity="0.7"/>
-
-  <!-- Bullet/cartridge on bench - left side -->
-  <ellipse cx="100" cy="198" rx="10" ry="6" fill="#c8752a" opacity="0.6"/>
-  <rect x="90" y="168" width="20" height="30" fill="#8a9ab0" rx="2"/>
-  <polygon points="90,168 110,168 100,148" fill="#c8c8c8"/>
-
-  <!-- Bullet/cartridge on bench - right side -->
-  <ellipse cx="300" cy="198" rx="10" ry="6" fill="#c8752a" opacity="0.6"/>
-  <rect x="290" y="168" width="20" height="30" fill="#8a9ab0" rx="2"/>
-  <polygon points="290,168 310,168 300,148" fill="#c8c8c8"/>
-
-  <!-- Text: THE LOAD BENCH -->
-  <text x="200" y="345" font-family="'Arial Black', Arial, sans-serif" font-weight="900" font-size="28" fill="#ffffff" text-anchor="middle" letter-spacing="2">THE LOAD BENCH</text>
-  <text x="200" y="370" font-family="Arial, sans-serif" font-weight="400" font-size="13" fill="#c8752a" text-anchor="middle" letter-spacing="4">PRECISION HANDLOADING</text>
+<!-- OPTION B: Crosshair/Scope Reticle — precision rifle angle -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" fill="#0f1117"/>
+  <!-- Outer circle -->
+  <circle cx="256" cy="220" r="130" fill="none" stroke="#c8752a" stroke-width="3"/>
+  <!-- Inner circle -->
+  <circle cx="256" cy="220" r="30" fill="none" stroke="#c8752a" stroke-width="2"/>
+  <!-- Center dot -->
+  <circle cx="256" cy="220" r="5" fill="#c8752a"/>
+  <!-- Crosshair lines - horizontal, with gap in center -->
+  <line x1="126" y1="220" x2="218" y2="220" stroke="#c8752a" stroke-width="2"/>
+  <line x1="294" y1="220" x2="386" y2="220" stroke="#c8752a" stroke-width="2"/>
+  <!-- Crosshair lines - vertical, with gap -->
+  <line x1="256" y1="90" x2="256" y2="182" stroke="#c8752a" stroke-width="2"/>
+  <line x1="256" y1="258" x2="256" y2="350" stroke="#c8752a" stroke-width="2"/>
+  <!-- Mil-dot style marks on reticle -->
+  <circle cx="220" cy="220" r="3" fill="#c8752a"/>
+  <circle cx="292" cy="220" r="3" fill="#c8752a"/>
+  <circle cx="256" cy="184" r="3" fill="#c8752a"/>
+  <circle cx="256" cy="256" r="3" fill="#c8752a"/>
+  <!-- Text -->
+  <text x="256" y="420" font-family="'Arial Black', Arial, sans-serif" font-weight="900" font-size="34" fill="#ffffff" text-anchor="middle" letter-spacing="3">THE LOAD BENCH</text>
+  <text x="256" y="450" font-family="Arial, sans-serif" font-size="14" fill="#c8752a" text-anchor="middle" letter-spacing="6">PRECISION HANDLOADING</text>
 </svg>
