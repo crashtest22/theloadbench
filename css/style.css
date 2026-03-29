@@ -1,0 +1,85 @@
+/* The Load Bench — Custom Styles */
+/* Tailwind handles the heavy lifting; this covers anything Tailwind doesn't */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background-color: #0f1117;
+  color: #e2e8f0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Subtle grain texture overlay via pseudo-element */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.4;
+}
+
+/* Ensure content sits above the grain */
+body > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* Form focus styles */
+input[type="email"]:focus {
+  outline: none;
+}
+
+/* Button active state */
+button[type="submit"]:active {
+  transform: translateY(1px);
+}
+
+/* Card hover — slight lift */
+.card-hover {
+  transition: transform 0.15s ease, border-color 0.15s ease;
+}
+.card-hover:hover {
+  transform: translateY(-2px);
+}
+
+/* Accent color utility */
+.text-accent {
+  color: #c8752a;
+}
+
+.bg-accent {
+  background-color: #c8752a;
+}
+
+.border-accent {
+  border-color: #c8752a;
+}
+
+/* Success message (shown after form submit) */
+.form-success {
+  display: none;
+  color: #4ade80;
+  font-size: 0.875rem;
+  margin-top: 0.5rem;
+}
+
+.form-success.visible {
+  display: block;
+}
+
+/* Responsive typography */
+@media (max-width: 640px) {
+  h1 {
+    font-size: 2.5rem;
+  }
+}

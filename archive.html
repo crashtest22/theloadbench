@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Archive — The Load Bench</title>
+  <meta name="description" content="Past issues of The Load Bench newsletter." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body class="bg-[#0f1117] text-gray-200 font-sans antialiased">
+
+  <!-- Nav -->
+  <nav class="border-b border-gray-800">
+    <div class="max-w-5xl mx-auto px-4 py-4 flex items-center justify-between">
+      <a href="index.html" class="flex items-center gap-2">
+        <span class="text-[#c8752a] font-black text-xl tracking-tight">⬡ THE LOAD BENCH</span>
+      </a>
+      <div class="flex gap-6 text-sm font-medium text-gray-400">
+        <a href="about.html" class="hover:text-[#c8752a] transition-colors">About</a>
+        <a href="archive.html" class="text-[#c8752a]">Archive</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Content -->
+  <main class="max-w-5xl mx-auto px-4 py-16">
+    <div class="max-w-2xl">
+      <div class="inline-block bg-[#c8752a]/10 border border-[#c8752a]/30 text-[#c8752a] text-xs font-semibold tracking-widest uppercase px-3 py-1 rounded mb-6">
+        Archive
+      </div>
+      <h1 class="text-4xl md:text-5xl font-black text-white leading-tight mb-6">
+        Past Issues
+      </h1>
+
+      <!-- Placeholder state -->
+      <div class="border border-dashed border-gray-700 rounded-lg p-12 text-center mt-10">
+        <div class="text-4xl mb-4">📬</div>
+        <h2 class="text-white font-bold text-xl mb-3">First issue coming soon.</h2>
+        <p class="text-gray-400 mb-8 max-w-sm mx-auto">
+          Subscribe to get it in your inbox the moment it drops. Issues will be archived here after sending.
+        </p>
+        <form action="#" method="POST" class="flex flex-col sm:flex-row gap-3 max-w-md mx-auto" id="subscribe-form-archive">
+          <input
+            type="email"
+            name="email"
+            placeholder="your@email.com"
+            required
+            class="flex-1 bg-gray-900 border border-gray-700 text-white placeholder-gray-500 rounded-md px-4 py-3 text-sm focus:outline-none focus:border-[#c8752a] focus:ring-1 focus:ring-[#c8752a] transition-colors"
+          />
+          <button
+            type="submit"
+            class="bg-[#c8752a] hover:bg-[#b5662a] text-white font-bold px-6 py-3 rounded-md text-sm transition-colors whitespace-nowrap"
+          >
+            Subscribe Free
+          </button>
+        </form>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="max-w-5xl mx-auto px-4 py-8 border-t border-gray-800 flex flex-col sm:flex-row items-center justify-between gap-4 mt-16">
+    <span class="text-gray-600 text-sm">© 2026 The Load Bench | theloadbench.com</span>
+    <div class="flex gap-6 text-sm text-gray-600">
+      <a href="about.html" class="hover:text-gray-400 transition-colors">About</a>
+      <a href="archive.html" class="hover:text-gray-400 transition-colors">Archive</a>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
