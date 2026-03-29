@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Background circle (Discord uses circle crop) -->
+  <rect width="512" height="512" fill="#0f1117"/>
+  
+  <!-- Bench top -->
+  <rect x="56" y="260" width="400" height="30" fill="#c8752a" rx="6"/>
+  
+  <!-- Bench legs -->
+  <rect x="76" y="290" width="22" height="120" fill="#a85e20" rx="4"/>
+  <rect x="414" y="290" width="22" height="120" fill="#a85e20" rx="4"/>
+
+  <!-- Lower shelf -->
+  <rect x="68" y="376" width="376" height="16" fill="#a85e20" rx="4"/>
+
+  <!-- Press body -->
+  <rect x="216" y="200" width="80" height="62" fill="#1a2030" rx="6" stroke="#c8752a" stroke-width="2.5"/>
+  <!-- Press column -->
+  <rect x="246" y="110" width="20" height="95" fill="#1a2030" rx="4" stroke="#c8752a" stroke-width="2.5"/>
+  <!-- Press handle arm -->
+  <line x1="266" y1="128" x2="330" y2="96" stroke="#c8752a" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="334" cy="94" r="10" fill="#c8752a"/>
+  <!-- Die/shellplate -->
+  <circle cx="256" cy="258" r="14" fill="#c8752a" opacity="0.8"/>
+
+  <!-- Left cartridge -->
+  <ellipse cx="128" cy="257" rx="13" ry="8" fill="#c8752a" opacity="0.5"/>
+  <rect x="115" y="215" width="26" height="42" fill="#7a8fa8" rx="3"/>
+  <polygon points="115,215 141,215 128,188" fill="#d0d0d0"/>
+
+  <!-- Right cartridge -->
+  <ellipse cx="384" cy="257" rx="13" ry="8" fill="#c8752a" opacity="0.5"/>
+  <rect x="371" y="215" width="26" height="42" fill="#7a8fa8" rx="3"/>
+  <polygon points="371,215 397,215 384,188" fill="#d0d0d0"/>
+
+  <!-- TLB monogram for small sizes -->
+  <text x="256" y="170" font-family="'Arial Black', Arial, sans-serif" font-weight="900" font-size="42" fill="#c8752a" text-anchor="middle" opacity="0.15">TLB</text>
+</svg>
