@@ -161,15 +161,71 @@ def generate_digest(components: Dict, forums: Dict, output_dir: str = "output") 
 
 ---
 
-## 📝 Next Steps
+## 🗓 Match Calendar
 
-*James — add your personal load bench notes here before sending:*
+### Precision Rifle (PRS / NRL / F-Class / CMP)
 
-- [ ] Current load development update (caliber, powder, bullet, results)
-- [ ] Any range trip or competition results worth sharing
-- [ ] Reader questions or responses to highlight
-- [ ] Upcoming content/video ideas
-- [ ] Any deals or restocks worth flagging to subscribers
+[Auto-populated from matches.py — verify dates before sending]
+
+- precisionrifleseries.com/bolt-gun/schedule/
+- nrlhunter.com/schedule/
+- fclassnational.com/matches
+- thecmp.org/competitions/matches/
+
+### Pistol (IDPA / USPSA / GSSF)
+
+- idpa.com/matches
+- uspsa.org/match-finder
+- gssfonline.com/matches
+
+---
+
+## 🏆 Match Highlights
+
+*James — fill in from recent matches you attended or heard about:*
+
+- [ ] Any notable results from the past week?
+- [ ] Stage wins, high overall finishes worth calling out?
+- [ ] Any equipment or load observations from match conditions?
+- [ ] Reader-submitted results? (encourage in newsletter)
+
+---
+
+## 🔧 From the Bench
+
+*James — your personal load bench note (2-4 sentences):*
+
+- [ ] What are you currently working up?
+- [ ] Recent range session observation?
+- [ ] Anything that surprised you this week at the bench?
+
+---
+
+## 💡 Bench Tip of the Week
+
+*James — one actionable tip (3-4 sentences max):*
+
+- [ ] Primer seating, annealing, neck tension, seating depth, brass prep...
+
+---
+
+## 📬 Next Issue Preview
+
+*Tease what's coming next week:*
+
+- [ ] Cartridge spotlight topic
+- [ ] Any gear or equipment focus?
+
+---
+
+## 📝 Checklist Before Sending
+
+- [ ] Verify match dates are current
+- [ ] Load data reviewed for accuracy
+- [ ] Personal bench note added
+- [ ] Bench tip added
+- [ ] Match highlights filled in
+- [ ] Links tested
 
 ---
 
