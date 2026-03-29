@@ -1,0 +1,81 @@
+THE LOAD BENCH — Issue #1 | March 29, 2026
+Precision handloading intelligence. Built by shooters, for shooters.
+
+SUBJECT: Issue #1 — 6GT Load Data, Component Watch, Community Roundup
+PREVIEW TEXT: Component availability, 6GT load data spotlight, and what the community is talking about this week.
+
+---
+
+Welcome to Issue #1.
+
+If you're here, you reload. Probably seriously. Maybe you're chasing tenths of an MOA at 600 yards, running handloads through an IDPA stage, or just done paying $40 for a box of factory 6GT that doesn't shoot as well as what you're already making at the bench. Either way — this is for you.
+
+Every week: component availability from the major online suppliers, load data from actual competition experience, and what's moving in the community. No beginner tutorials. No fluff.
+
+Let's get into it.
+
+---
+
+📦 COMPONENT WATCH
+
+H4350 — Check Powder Valley and Graf's first. Moves fast when in stock. Check Friday mornings — that's when restocks typically hit.
+
+Varget — Widener's has been the most consistent lately. .308 guys, you know the drill.
+
+N140 / N150 — Harder to find in quantity. Graf's usually has the best Vihtavuori stock. Grab when you see it — these don't sit long.
+
+Federal 210M / 205M — Still tight. If you find Federal match primers anywhere near MSRP, buy a sleeve. CCI BR-4 is a solid alternative for small primers if you're bridging a gap.
+
+6GT Brass — Alpha was spotted in stock on r/6gt this week. Peterson and Lapua are the other two worth watching. Midsouth and Graf's are your best online bets.
+
+---
+
+🎯 LOAD DATA SPOTLIGHT: 6GT
+
+The 6GT is earning its place in PRS and F-class — and for good reason. It outperforms 6mm Creedmoor in efficiency without beating up your brass.
+
+105gr Berger Hybrid / 108gr Berger BT:
+• Powder: H4350 or N140, 30–32gr range
+• Primer: Federal 205M or CCI BR-4
+• Brass: Alpha or Peterson (more consistent neck tension than Lapua in this cartridge)
+• Velocity target: 2,950–3,050 fps depending on barrel length
+• SD goal: Under 8 fps is achievable. Over 12 fps? Look at primer seating depth and brass prep before chasing powder charge.
+
+115gr DTAC / Berger Hybrid:
+• Powder: N150 or H4831sc, 30–31gr range
+• Seating depth: Start 0.020" off the lands and work from there
+
+Always work up from minimum. These are reference points from real bench experience — not a prescription.
+
+---
+
+💬 FROM THE COMMUNITY
+
+🔥 "An argument for middle of the road reloading equipment" (r/reloading, 216 upvotes) — Good pushback on the $2k press crowd. A Dillon 550 and good dies will outshoot your factory ammo. Worth a read if you're helping a new reloader get set up.
+
+🔥 r/6gt — Small sub but active. Someone running 107gr SMKs asking about velocity targets. Worth a look if you're in that world.
+
+🔥 Sniper's Hide Reloading Depot — worth checking directly this week for precision load threads.
+Link: snipershide.com/shooting/forums/sniper-s-hide-reloading-depot/
+
+---
+
+🔧 FROM THE BENCH
+
+Brass prep matters more than powder charge with the 6GT. Full-length size, uniform primer pockets, consistent neck tension — that's where your SD gains actually live. Powder charge is the last variable you should be chasing.
+
+More specifics on the current comp load next issue after my next range session.
+
+— James
+
+---
+
+📬 NEXT ISSUE
+• .308 Win load data spotlight (175gr SMK + 185gr Juggernauts)
+• Primer availability deep dive — what's actually in stock vs. what the sites say
+• Reader Q&A — reply to this email with your reloading questions
+
+---
+
+Join the Discord: https://discord.gg/BS62QQufQJ
+Website: https://theloadbench.com
