@@ -1,8 +1,8 @@
 THE LOAD BENCH — Issue #2 | April 5, 2026
 Precision handloading intelligence. Built by shooters, for shooters.
 
-SUBJECT: Issue #2 — .308 Win Load Data, Primer Availability Deep Dive, Community Roundup
-PREVIEW TEXT: 175gr SMK vs 185gr Juggernaut, where primers are actually sitting right now, and the best from the community.
+SUBJECT: Issue #2 — .308 Win Load Data, Primer Availability Deep Dive, Match Calendar
+PREVIEW TEXT: 175gr SMK vs 185gr Juggernaut, brass prep workflow, where primers actually are, and what to shoot this spring.
 
 ---
 
@@ -11,6 +11,8 @@ Welcome back.
 Issue #1 was about the 6GT — a cartridge with a future. This week we're going old school: .308 Winchester. Don't let anyone tell you it's outdated. It's proven at 1,000 yards in F-Class and service rifle, it's the reference point for half the precision community, and if you're not running it yet, you've almost certainly shot against someone who is.
 
 We're also diving into primer availability this week — what the scraper actually found across the major suppliers, what's consistently hard to locate, and what to grab when you see it.
+
+And new this issue: a match calendar for April and May. If you're going to load it, you might as well shoot it somewhere.
 
 Let's get into it.
 
@@ -49,20 +51,51 @@ The original precision .308 load. If you've ever fired or competed against a USS
 • Velocity target: 2,600–2,650 fps from a 24" barrel
 • SD goal: Under 8 fps with quality brass and consistent seating depth. If you're consistently over 12 fps, check primer seating depth first — before chasing powder.
 
+Seating Depth — 175gr SMK:
+The 175 SMK is tolerant. It doesn't care as much about being jammed as a VLD does. A good starting point is 0.015"–0.020" off the lands and it'll likely shoot there. If your magazine length is the constraint (2.800" COAL), just run it there — it's been winning matches from the mag for decades. Jump preference: 0.010"–0.020" off the lands is where most rifles find their node. It's not a bullet that rewards jamming.
+
 185gr Berger Juggernaut (BTHP, #30445)
 The newer contender. G7 BC of .291 (G1 ~.568) means it holds velocity and cuts wind better than the 175gr SMK past 600 yards. The trade-off: it needs speed, and it's more sensitive to seating depth. But if you're running .308 at 800+ yards, this is worth the effort.
 
 • Powder: N150 45.0–46.5gr | Varget 43.5–44.5gr (Varget has less case capacity headroom with this bullet — watch pressure signs)
 • Primer: Federal 210M. Not negotiable for precision work with this bullet.
 • Brass: Lapua. Full-length size, neck turn if your throat is tight.
-• Seating depth: Start 0.015" off the lands and work toward the lands in 0.005" increments. The Juggernaut likes to be closer than most.
 • Velocity target: 2,520–2,570 fps from a 24" barrel. You're not going to win a velocity race with it — the BC is doing the work.
 • SD goal: Under 10 fps. Consistent seating depth is your biggest lever here.
+
+Seating Depth — 185gr Juggernaut:
+This bullet wants to be close. Start at 0.015" off the lands and move toward the lands in 0.005" increments, watching for pressure signs and ES/SD improvement. The Juggernaut responds well to being seated near jam — some shooters run it at 0.005" off or even a slight jam in single-feed guns. If you're box-mag feeding, you'll be forced back to 2.800" COAL, which puts you ~0.040"–0.060" off depending on your chamber. It'll still shoot, but you're leaving some performance on the table. Single-feed or PF handloader: get it close. Jump preference: 0.005"–0.015" off. It rewards the work.
 
 Quick comparison:
   • At 600 yards: 175gr SMK vs 185gr Juggernaut — similar impact point
   • At 800 yards: Juggernaut is noticeably flatter, less wind drift
   • Match choice: If you're running NRL or PRS-style stages with shorter max distances (~600 yds), the 175 SMK is still competitive and far more forgiving. If you're F-Class or ELR .308, load the Juggernaut.
+
+---
+
+🔩 BRASS PREP WORKFLOW — .308 WIN
+
+This is where your SD lives. Not in your powder charge.
+
+Full-Length Sizing vs Neck Sizing:
+Full-length size every firing if you're running a semi-auto or sharing brass between rifles. For bolt gun brass that stays in one chamber, neck sizing after the first couple firings gives you better case life and slightly improved concentricity — the case has been fire-formed to your exact chamber. That said, if your ES starts creeping up after several neck-only firings, go back to full-length. Cases work-harden and the shoulders can creep. The rule: neck size for a dedicated bolt gun, full-length for everything else or when ES rises.
+
+Annealing:
+Anneal every 3–4 firings minimum. .308 runs higher pressure than smaller cases and the neck work-hardens faster than you might expect. Inconsistent neck tension from unannealed brass is one of the most common causes of high ES that people spend months chasing with powder charges. If your SD is over 12 fps and your load has been stable, anneal your brass before you change anything else. Gaurot, Annealeeze, or AMP — the method matters less than doing it consistently.
+
+Primer Pocket Uniforming:
+Do it once on new brass, then check every 3–4 firings. Pocket depth variation is a real factor with Federal 210M primers — they're on the softer side and will seat inconsistently if the pocket isn't clean and uniform. Use a Sinclair or RCBS uniformer. You want 0.125" depth, consistent across all cases. This is tedious. It's also worth it.
+
+Velocity Consistency — When Your SD is High:
+If you're running over 12–15 fps SD consistently and you've ruled out seating depth:
+
+1. Check primer seating depth first. Primers should be 0.002"–0.005" below flush. A primer sitting proud or variable between cases is probably your culprit. Use a Sinclair or RCBS primer seating gauge — don't eyeball it.
+2. Check neck tension. Weigh bullets before seating and check runout after. Inconsistent pull force on the mandrel means inconsistent neck tension, which means variable ignition.
+3. Check for loose flash holes. Lapua brass has uniform flash holes from the factory. If you're running mixed brass or Federal commercial cases, deburr and uniform the flash holes.
+4. Check your charge weight variation. If you're using a trickler setup, verify it's consistent. Even 0.3gr variation with Varget in a .308 case will show up in your velocity data.
+5. Finally — check your barrel. If the load has been good and SD suddenly climbed, you may have throat erosion. Run a fouling patch and look for copper rings in the throat.
+
+The sequence matters. Don't jump to powder or seating depth before ruling out primer seating. That's the number one mistake I see.
 
 ---
 
@@ -88,12 +121,53 @@ If you find Federal 210M in stock anywhere near MSRP, grab a sleeve minimum. The
 
 ---
 
+🗓 MATCH CALENDAR — April / May 2026
+
+Dates worth putting on the calendar. PRS bolt gun schedule was pulled directly from precisionrifleseries.com this week. IDPA/USPSA/GSSF dates require checking the club-level calendars — links below.
+
+PISTOL
+
+• Apr–May — USPSA Club Matches (ongoing, check your region)
+  Find matches: uspsa.org/matches
+• Apr–May — IDPA Club Matches (ongoing nationwide)
+  Find matches: idpa.com
+• 2026 Western IDPA Regional Championship — Sacramento, California wine country
+  Tier IV sanctioned, 16 stages. Date TBD — check sdps-idpa.org or idpa.com for registration open
+• Apr–May — GSSF Outdoor Matches (schedule active, check directly)
+  gssfonline.com or gssf.pro/outdoor-matches
+
+RIFLE / PRECISION
+
+• Apr 3 — 2026 Snake River Standoff by Lone Peak (PRS Pro) | Bliss, Idaho
+  precisionrifleseries.com/m/8083
+• Apr 11 — 2026 Koenig-Ruger PRC (PRS Pro) | Grand Junction, Colorado
+  precisionrifleseries.com/m/7904
+• Apr 18 — 2026 Short Action Customs Steel Challenge (PRS Pro) | Benge, Washington
+  precisionrifleseries.com/m/8125
+• Apr 25 — 2026 Alpha Munitions Nut Crusher (PRS Pro) | Price, Utah
+  precisionrifleseries.com/m/8172
+• May 16 — 2026 Parma Precision Rifle Rumble VIII presented by Burris (PRS Pro) | Parma, Idaho
+  precisionrifleseries.com/m/8175
+• May 24 — NRL Hunter Games | COSSA Park, Bend, Oregon
+  greatbasinprecisionrifle.com/events/nrl-hunter-games-may-2026
+• May 30 — Thunderbeast Arms Co King of Coal Canyon (PRS Pro) | Raton, New Mexico
+  precisionrifleseries.com/m/8080
+
+For F-Class and CMP High Power matches, check directly:
+• F-Class: fclassnorth.com (calendar varies by club)
+• CMP: thecmp.org/competitions
+• NRL Hunter full schedule: nrlhunter.org/matches
+
+The Snake River Standoff in Idaho (Apr 3) and Nut Crusher in Price, Utah (Apr 25) are both driveable from the California/Nevada corridor and worth a weekend. Parma in mid-May is one of the better-run PRS events in the west — well supported, natural terrain, shooter-friendly match environment. Worth the trip.
+
+---
+
 💬 FROM THE COMMUNITY
 
 🔥 "Costco Has Almost Everything" (r/reloading, 248 upvotes) — Someone spotted reloading-adjacent gear at Costco. The comment thread turns into a good discussion on the WA-based retail chain's gun/ammo policies and what they will and won't carry. Worth a scroll.
 reddit.com/r/reloading/comments/1s2xd7j
 
-🔥 "Facebook reloading groups be like 'good job, perfect chamfer.'" (r/reloading, 158 upvotes, 58 comments) — If you've spent five minutes in any Facebook reloading group, you'll recognize this immediately. The top comment: "Neck tension has left the chat." 
+🔥 "Facebook reloading groups be like 'good job, perfect chamfer.'" (r/reloading, 158 upvotes, 58 comments) — If you've spent five minutes in any Facebook reloading group, you'll recognize this immediately. The top comment: "Neck tension has left the chat."
 reddit.com/r/reloading/comments/1s2lss7
 
 🔥 "6.5 Catering to the Fudds" (r/longrange, 495 upvotes, 166 comments) — Debate thread on 6.5 Creedmoor marketing vs. actual performance. Lots of opinions. The top comment is measured; the rest of the thread is not. Good entertainment if you have 20 minutes.
@@ -115,6 +189,12 @@ The Juggernaut is more punishing of bad brass than the 175gr SMK. If you're goin
 More from the bench after the next range session.
 
 — James
+
+---
+
+💡 BENCH TIP
+
+Check your primer seating depth — not just whether the primer is below flush, but whether it's consistent across your entire batch. Use a Sinclair or RCBS primer depth gauge and check 10 random cases before you start a load development session. If you're seeing more than 0.003" variation in seating depth across your batch, that's primer pocket variation doing the work, not you. Sort those cases out and uniform the pockets before you reload them — inconsistent primer seating is one of the quietest contributors to high SD, and it'll drive you crazy if you're chasing it with powder charges.
 
 ---
 
