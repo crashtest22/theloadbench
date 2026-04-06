@@ -1,3 +1,7 @@
 User-agent: *
 Allow: /
 Sitemap: https://theloadbench.com/sitemap.xml
+
+# Block indexing of GitHub Pages origin URL
+User-agent: *
+Disallow: /theloadbench/
